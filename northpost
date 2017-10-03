@@ -1,0 +1,4 @@
+.northpost { width:415;height:560px;overflow:auto;padding:5px;background-color: rgba(158, 227, 230,0.15);color:#9cbdbf;font-family: times; font-size: 12px;margin-top:40px!important;margin-left:20px!important;max-width:80%; }
+.northpost::-webkit-scrollbar {height: 3px;width: 3px;background: #a08c81;}
+.northpost::-webkit-scrollbar-track {background-color: #d4cfd5; border: 1px solid #fff;}
+.northpost::-webkit-scrollbar-thumb {background: #a08c81;border: 0px solid #fff;}
